@@ -1,0 +1,16 @@
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\bin\Debug\net5.0\Program2.0.exe
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\bin\Debug\net5.0\Program2.0.deps.json
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\bin\Debug\net5.0\Program2.0.runtimeconfig.json
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\bin\Debug\net5.0\Program2.0.runtimeconfig.dev.json
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\bin\Debug\net5.0\Program2.0.dll
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\bin\Debug\net5.0\ref\Program2.0.dll
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\bin\Debug\net5.0\Program2.0.pdb
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\obj\Debug\net5.0\Program2.0.csproj.AssemblyReference.cache
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\obj\Debug\net5.0\Program2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\obj\Debug\net5.0\Program2.0.AssemblyInfoInputs.cache
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\obj\Debug\net5.0\Program2.0.AssemblyInfo.cs
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\obj\Debug\net5.0\Program2.0.csproj.CoreCompileInputs.cache
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\obj\Debug\net5.0\Program2.0.dll
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\obj\Debug\net5.0\ref\Program2.0.dll
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\obj\Debug\net5.0\Program2.0.pdb
+C:\Users\panch\OneDrive\Documentos\Informatica Panchoroses\Program2.0\obj\Debug\net5.0\Program2.0.genruntimeconfig.cache
